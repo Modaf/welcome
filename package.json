@@ -1,5 +1,5 @@
 {
-  "name": "welcome",
+  "name": "welcomentm",
   "version": "0.36.7",
   "description": "Welcome users to Atom with useful information",
   "main": "./lib/main",
